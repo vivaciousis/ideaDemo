@@ -1,4 +1,4 @@
-package com.imooc.demo.dto;
+package com.viva.demo.dto;
 
 import java.util.Objects;
 

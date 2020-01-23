@@ -1,4 +1,4 @@
-package com.imooc.demo.config;
+package com.viva.demo.config;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.slf4j.Logger;
@@ -10,7 +10,7 @@ import org.springframework.core.env.Environment;
 
 @SpringBootApplication
 @ComponentScan("com")
-@MapperScan("com.imooc.demo.mapper")
+@MapperScan("com.viva.demo.mapper")
 public class Application {
 
     private static final Logger LOG = LoggerFactory.getLogger(Application.class);

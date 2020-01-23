@@ -1,8 +1,8 @@
-package com.imooc.demo.service;
+package com.viva.demo.service;
 
-import com.imooc.demo.domain.User;
-import com.imooc.demo.dto.UserDto;
-import com.imooc.demo.mapper.UserMapper;
+import com.viva.demo.domain.User;
+import com.viva.demo.dto.UserDto;
+import com.viva.demo.mapper.UserMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeanUtils;

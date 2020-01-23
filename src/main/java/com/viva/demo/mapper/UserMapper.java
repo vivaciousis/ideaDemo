@@ -1,7 +1,7 @@
-package com.imooc.demo.mapper;
+package com.viva.demo.mapper;
 
 
-import com.imooc.demo.domain.User;
+import com.viva.demo.domain.User;
 
 import java.util.List;
 

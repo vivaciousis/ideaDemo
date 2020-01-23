@@ -1,8 +1,8 @@
-package com.imooc.demo.controller;
+package com.viva.demo.controller;
 
-import com.imooc.demo.config.Application;
-import com.imooc.demo.dto.UserDto;
-import com.imooc.demo.service.UserService;
+import com.viva.demo.config.Application;
+import com.viva.demo.dto.UserDto;
+import com.viva.demo.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.RequestMapping;

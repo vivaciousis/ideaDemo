@@ -1,4 +1,4 @@
-package com.imooc.demo.domain;
+package com.viva.demo.domain;
 
 public class User {
     /**

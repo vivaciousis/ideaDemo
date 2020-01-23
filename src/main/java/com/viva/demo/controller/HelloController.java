@@ -1,7 +1,7 @@
-package com.imooc.demo.controller;
+package com.viva.demo.controller;
 
-import com.imooc.demo.dto.UserDto;
-import com.imooc.demo.service.UserService;
+import com.viva.demo.dto.UserDto;
+import com.viva.demo.service.UserService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
